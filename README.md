@@ -1,10 +1,8 @@
-## Olá, vou o Gustavo Maia Oliveira 👋
+<h2 align="left">Hi 👋! My name is Gustavo Maia Oliveira and I'm a Software Developer Intern, from Paraná, Brazil!🇧🇷</h2>
 
 - 🔭 I’m currently working on Software Development Intern
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: https://www.linkedin.com/in/gustavomaiaoliveira/
-
-<h2 align="left">Hi 👋! My name is Gustavo Maia Oliveira and I'm a Software Developer Intern, from Paraná, Brazil!🇧🇷</h2>
 
 ###
 
