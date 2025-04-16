@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gustavo Maia Oliveira and I'm a Software Developer Intern, from Paraná, Brazil!🇧🇷</h2>
+<h2 align="left">Hi! 👋 My name is Gustavo Maia Oliveira and I'm a Software Developer Intern, from Paraná, Brazil!🇧🇷</h2>
 
 - 🔭 I’m currently working on Software Development Intern
 - 🌱 I’m currently learning TypeScript
